@@ -1,2 +1,2 @@
 # EF-DbFirst
-Entity Framework - Building a model using Database-First workflow 
+Entity Framework 6 - Building a model using Database-First workflow 

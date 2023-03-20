@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirst", "DbFirst\DbFirst.csproj", "{D4B407D5-8A23-484E-93CB-F4722618B535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoRentalStore", "VideoRentalStore\VideoRentalStore.csproj", "{496D9E61-2464-46F5-A144-E48F27572ACD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7C36486-6C20-43DB-BC11-EF6D6D9B1B90}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\Db first exercise\Db+First+-+Exercises.pdf = ..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\Db first exercise\Db+First+-+Exercises.pdf
+		..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\LocalServer instance.txt = ..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\LocalServer instance.txt
+		..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\Pluto.sql = ..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\Pluto.sql
+		..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\Db first exercise\Vidzy.sql = ..\..\Desktop\Entity Framework in Depth The Complete Guide Udemy\Db first exercise\Vidzy.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B407D5-8A23-484E-93CB-F4722618B535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B407D5-8A23-484E-93CB-F4722618B535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B407D5-8A23-484E-93CB-F4722618B535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B407D5-8A23-484E-93CB-F4722618B535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496D9E61-2464-46F5-A144-E48F27572ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496D9E61-2464-46F5-A144-E48F27572ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496D9E61-2464-46F5-A144-E48F27572ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496D9E61-2464-46F5-A144-E48F27572ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97E0F7D-B9BF-41DD-B805-28549488E3A8}
+	EndGlobalSection
+EndGlobal
